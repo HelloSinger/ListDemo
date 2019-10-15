@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_expand"
+    android:layout_width="746px"
+    android:layout_height="450px"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="120px"
+    android:background="@drawable/jy_item_expand_bg"
+    android:visibility="gone">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="580px"
+        android:layout_above="@id/ll_pack_up">
+
+        <TextView
+            android:id="@+id/tv_introduce"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="60px"
+            android:layout_marginTop="34px"
+            android:layout_marginRight="60px"
+            android:text="不饱和脂肪酸是构成体内脂肪的一种脂肪酸，人体不可缺少的脂肪酸。不饱和脂肪酸根据双键个数的不同，分为单不饱和脂肪酸和多不饱和脂肪酸二种。"
+            android:textColor="@color/color_888888"
+            android:textSize="20px" />
+
+        <TextView
+            android:id="@+id/tv_expand_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_introduce"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="60px"
+            android:layout_marginTop="26px"
+            android:layout_marginRight="60px"
+            android:text="环境因素和遗传因素都对肥胖的产生起到重要作用，遗传因素尤其增加了人体对于肥胖的易感性。FTO（fat-mass and obesity-associated gene）基因是一个在不同人群得到广泛验证的肥胖易感基因，该基因单核甘酸突变与肥胖密切相关。研究表明FTO基因在脑、脂肪组织、胰腺和下丘脑等组织中广泛表达。FTO基因编码的蛋白在能量代谢过程中发挥作用。近年来多项研究陆续报道了肥胖人群和FTO基因突变的关联性分析，因而发现对于特定突变位点不同基因型个体在肥胖人群和正常人群中的分布存在明显差异，携带某些特定的基因型的人群为先天性的易胖体质。"
+            android:textColor="@color/color_888888"
+            android:textSize="20px" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_pack_up"
+        android:layout_width="100px"
+        android:layout_height="80px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="收起"
+            android:textColor="@color/color_2283e2"
+            android:textSize="20px" />
+
+        <ImageView
+            android:layout_width="18px"
+            android:layout_height="10px"
+            android:layout_gravity="center"
+            android:layout_marginLeft="9px"
+            android:background="@drawable/icon_stroke" />
+    </LinearLayout>
+
+</RelativeLayout>

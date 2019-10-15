@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_061358">#061358</color>
+
+
+    <color name="color_FAFAFA">#FAFAFA</color>
+    <color name="color_32BEFF">#32BEFF</color>
+    <color name="color_5932BEFF">#9632BEFF</color>
+    <color name="color_00FFFFFF">#00FFFFFF</color>
+    <color name="color_70FFFFFF">#B3FFFFFF</color>
+    <color name="color_30FFFFFF">#4DFFFFFF</color>
+    <color name="color_BFBFBF">#BFBFBF</color>
+    <color name="colorBaseBlack">#1E2024</color>
+    <color name="colorSelected">#2ac6f6</color>
+    <color name="colorSelected1">#B32ac6f6</color>
+    <color name="colorText">#737373</color>
+    <color name="color_353bb7">#0035ebb7</color>
+    <color name="colorGrid">#803D3D3D</color>
+    <color name="color_828282">#828282</color>
+    <color name="color_51828282">#82828282</color>
+
+    <color name="color_ccdeff">#ccfefe</color>
+    <color name="color_ccfefefefe">#ccfefefe</color>
+    <color name="color_f2ffffff">#f2ffffff</color>
+    <color name="color_b4b4b4">#b4b4b4</color>
+    <color name="color_e96a38">#e96a38</color>
+    <color name="color_fefefe">#fefefe</color>
+    <color name="color_2283e2">#2283e2</color>
+    <color name="tv_3E6ECC">#3E6ECC</color>
+    <color name="tv_4B83E9">#4B83E9</color>
+    <color name="tv_00CF9B">#00CF9B</color>
+    <color name="tv_53c66a">#53c66a</color>
+    <color name="tv_6EABFF">#6EABFF</color>
+    <color name="tv_C6C6C6">#C6C6C6</color>
+    <color name="tv_A1ABBE">#A1ABBE</color>
+    <color name="tv_0080FF">#0080FF</color>
+    <color name="tv_4A90E2">#4A90E2</color>
+    <color name="tv_4C46E8">#4C46E8</color>
+    <color name="color_30AEAEAE">#33AEAEAE</color>
+    <color name="color_444444">#444444</color>
+    <color name="color_fafafa">#FAFAFA</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_bfbfbf">#BFBFBF</color>
+    <color name="color_67D9FF">#67D9FF</color>
+    <color name="color_33AEAEAE">#33AEAEAE</color>
+    <color name="color_4DFAFAFA">#4DFAFAFA</color>
+    <color name="color_82828282">#82828282</color>
+    <color name="color_80AEAEAE">#80AEAEAE</color>
+    <color name="color_33000000">#33000000</color>
+</resources>
