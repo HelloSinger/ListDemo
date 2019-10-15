@@ -80,6 +80,7 @@ public class AnimationUtils {
 
         });
         animator.start();
+
     }
 
     private ValueAnimator createDropAnimator(final View v, int start, int end) {
